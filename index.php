@@ -7,7 +7,7 @@ require_once("config.php");
     <title>ArchitecturePHP</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="<?= routeUrl() ?>public/css/bulma/bulma.css" rel="stylesheet">
+    <link href="<?= routeUrl() ?>public/css/bulma.css" rel="stylesheet">
 </head>
 <body>
     <?php
