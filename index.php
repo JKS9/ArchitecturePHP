@@ -15,8 +15,8 @@ require_once("config.php");
     $Pages = array('Home', 'SignIn', 'SignUp');
     include "views/commun/header/header.php";
 
-    if (isset($_GET['query'])) {
-        $url = explode('/', $_GET['query']);
+    if (isset($_GET['p'])) {
+        $url = explode('/', $_GET['p']);
         if ($url == "") {
             require "views/page/Home.php";
         } elseif (in_array($url[0], $Pages)) {

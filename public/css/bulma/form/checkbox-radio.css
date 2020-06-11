@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$input-hover-color".
-        on line 9 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/form/checkbox-radio.sass
+        on line 9 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/form/checkbox-radio.sass
 
 4:   line-height: 1.25
 5:   position: relative
@@ -15,7 +15,7 @@ Error: Undefined variable: "$input-hover-color".
 14: 
 
 Backtrace:
-/Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/form/checkbox-radio.sass:9
+/Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/form/checkbox-radio.sass:9
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:394:in `visit_prop'
@@ -80,7 +80,7 @@ file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:381:in 
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/app.rb:230:in `try'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:380:in `clean_project'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:373:in `clean_project_handler'
-anon_class1679902924_990336046.gen:13:in `handleEvent'
+anon_class670699149_990482693.gen:13:in `handleEvent'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:70:in `run'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:129:in `run_tray'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:145:in `(root)'
@@ -91,4 +91,4 @@ org/jruby/RubyKernel.java:1071:in `require'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$input-hover-color\".\A         on line 9 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/form/checkbox-radio.sass\A \A 4:   line-height: 1.25\A 5:   position: relative\A 6:   input\A 7:     cursor: pointer\A 8:   &:hover\A 9:     color: $input-hover-color\A 10:   &[disabled],\A 11:   fieldset[disabled] &\A 12:     color: $input-disabled-color\A 13:     cursor: not-allowed\A 14: "; }
+  content: "Error: Undefined variable: \"$input-hover-color\".\A         on line 9 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/form/checkbox-radio.sass\A \A 4:   line-height: 1.25\A 5:   position: relative\A 6:   input\A 7:     cursor: pointer\A 8:   &:hover\A 9:     color: $input-hover-color\A 10:   &[disabled],\A 11:   fieldset[disabled] &\A 12:     color: $input-disabled-color\A 13:     cursor: not-allowed\A 14: "; }

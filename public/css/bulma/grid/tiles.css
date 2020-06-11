@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'tablet'.
-        on line 28 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/grid/tiles.sass, in `tablet'
-        from line 28 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/grid/tiles.sass
+        on line 28 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/grid/tiles.sass, in `tablet'
+        from line 28 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/grid/tiles.sass
 
 23:   &.is-vertical
 24:     flex-direction: column
@@ -16,8 +16,8 @@ Error: Undefined mixin 'tablet'.
 33:         flex: none
 
 Backtrace:
-/Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/grid/tiles.sass:28:in `tablet'
-/Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/grid/tiles.sass:28
+/Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/grid/tiles.sass:28:in `tablet'
+/Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/grid/tiles.sass:28
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:348:in `visit_mixin'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:98:in `with_mixin'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
@@ -73,7 +73,7 @@ file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:381:in 
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/app.rb:230:in `try'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:380:in `clean_project'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:373:in `clean_project_handler'
-anon_class1679902924_990336046.gen:13:in `handleEvent'
+anon_class670699149_990482693.gen:13:in `handleEvent'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:70:in `run'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:129:in `run_tray'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:145:in `(root)'
@@ -84,4 +84,4 @@ org/jruby/RubyKernel.java:1071:in `require'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'tablet'.\A         on line 28 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/grid/tiles.sass, in `tablet'\A         from line 28 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/grid/tiles.sass\A \A 23:   &.is-vertical\A 24:     flex-direction: column\A 25:     & > .tile.is-child:not(:last-child)\A 26:       margin-bottom: 1.5rem !important\A 27:   // Responsiveness\A 28:   +tablet\A 29:     &:not(.is-child)\A 30:       display: flex\A 31:     @for $i from 1 through 12\A 32:       &.is-#{$i}\A 33:         flex: none"; }
+  content: "Error: Undefined mixin 'tablet'.\A         on line 28 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/grid/tiles.sass, in `tablet'\A         from line 28 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/grid/tiles.sass\A \A 23:   &.is-vertical\A 24:     flex-direction: column\A 25:     & > .tile.is-child:not(:last-child)\A 26:       margin-bottom: 1.5rem !important\A 27:   // Responsiveness\A 28:   +tablet\A 29:     &:not(.is-child)\A 30:       display: flex\A 31:     @for $i from 1 through 12\A 32:       &.is-#{$i}\A 33:         flex: none"; }

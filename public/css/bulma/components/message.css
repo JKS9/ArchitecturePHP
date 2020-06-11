@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$background".
-        on line 1 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/components/message.sass
+        on line 1 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/components/message.sass
 
 1: $message-background-color: $background !default
 2: $message-radius: $radius !default
@@ -10,7 +10,7 @@ Error: Undefined variable: "$background".
 6: $message-header-weight: $weight-bold !default
 
 Backtrace:
-/Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/components/message.sass:1
+/Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/components/message.sass:1
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:468:in `visit_variable'
@@ -53,7 +53,7 @@ file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:381:in 
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/app.rb:230:in `try'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:380:in `clean_project'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:373:in `clean_project_handler'
-anon_class1679902924_990336046.gen:13:in `handleEvent'
+anon_class670699149_990482693.gen:13:in `handleEvent'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:70:in `run'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:129:in `run_tray'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:145:in `(root)'
@@ -64,4 +64,4 @@ org/jruby/RubyKernel.java:1071:in `require'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$background\".\A         on line 1 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/components/message.sass\A \A 1: $message-background-color: $background !default\A 2: $message-radius: $radius !default\A 3: \A 4: $message-header-background-color: $text !default\A 5: $message-header-color: $text-invert !default\A 6: $message-header-weight: $weight-bold !default"; }
+  content: "Error: Undefined variable: \"$background\".\A         on line 1 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/components/message.sass\A \A 1: $message-background-color: $background !default\A 2: $message-radius: $radius !default\A 3: \A 4: $message-header-background-color: $text !default\A 5: $message-header-color: $text-invert !default\A 6: $message-header-weight: $weight-bold !default"; }

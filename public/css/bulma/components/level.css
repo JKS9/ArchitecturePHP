@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$block-spacing".
-        on line 1 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/components/level.sass
+        on line 1 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/components/level.sass
 
 1: $level-item-spacing: ($block-spacing / 2) !default
 2: 
@@ -10,7 +10,7 @@ Error: Undefined variable: "$block-spacing".
 6:   justify-content: space-between
 
 Backtrace:
-/Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/components/level.sass:1
+/Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/components/level.sass:1
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/compass.app/Contents/Resources/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/script/tree/operation.rb:64:in `_perform'
@@ -55,7 +55,7 @@ file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:381:in 
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/app.rb:230:in `try'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:380:in `clean_project'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:373:in `clean_project_handler'
-anon_class1679902924_990336046.gen:13:in `handleEvent'
+anon_class670699149_990482693.gen:13:in `handleEvent'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/ui/tray.rb:70:in `run'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:129:in `run_tray'
 file:/Applications/compass.app/Contents/Java/compass-app.jar!/main.rb:145:in `(root)'
@@ -66,4 +66,4 @@ org/jruby/RubyKernel.java:1071:in `require'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$block-spacing\".\A         on line 1 of /Users/jks/Documents/DEV/PRO/ArchitecturePHP/public/sass/bulma/components/level.sass\A \A 1: $level-item-spacing: ($block-spacing / 2) !default\A 2: \A 3: .level\A 4:   @extend %block\A 5:   align-items: center\A 6:   justify-content: space-between"; }
+  content: "Error: Undefined variable: \"$block-spacing\".\A         on line 1 of /Applications/MAMP/htdocs/ArchitecturePHP/public/sass/bulma/components/level.sass\A \A 1: $level-item-spacing: ($block-spacing / 2) !default\A 2: \A 3: .level\A 4:   @extend %block\A 5:   align-items: center\A 6:   justify-content: space-between"; }

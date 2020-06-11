@@ -1,3 +1,6 @@
+<?php
+include "controller/HomeController.php"
+?>
 <section class="hero is-primary">
   <div class="hero-body">
     <div class="container">
@@ -5,7 +8,11 @@
         Architecture test
       </h1>
       <h2 class="subtitle">
-        Lorem ipsum
+        <?php 
+        foreach($name as $names){
+          echo $names['nom'];
+        }
+        ?>
       </h2>
     </div>
   </div>
