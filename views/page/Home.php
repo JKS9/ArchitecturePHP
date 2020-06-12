@@ -7,10 +7,11 @@ include "controller/HomeController.php"
       <h1 class="title">
         Architecture test
       </h1>
-      <h2 class="subtitle">
+      <h2 class="red">
         <?php 
         foreach($name as $names){
           echo $names['nom'];
+          echo "<br>";
         }
         ?>
       </h2>

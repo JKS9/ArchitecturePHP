@@ -1,6 +1,6 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="Home">
       <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
     </a>
 
@@ -21,7 +21,7 @@
         SignIn
       </a>
 
-      <a class="navbar-link" href="SignUp">
+      <a class="navbar-item" href="SignUp">
         SignUp
       </a>
     </div>
@@ -29,11 +29,11 @@
     <div class="navbar-end">
       <div class="navbar-item">
         <div class="buttons">
-          <a class="button is-primary">
+          <a class="button is-primary" href="SignUp">
             <strong>Sign up</strong>
           </a>
-          <a class="button is-light">
-            Log in
+          <a class="button is-light" href="SignIn">
+            SignIn
           </a>
         </div>
       </div>
